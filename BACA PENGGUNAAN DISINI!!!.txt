@@ -1,0 +1,8 @@
+	BUKA http://localhost/phpmyadmin/
+	BUAT/ NEW DATABASE BARU DENGAN NAMA projek_perpus
+	IMPORT DATABASE NYA DI FOLDER DATABASE -> projek_perpus.sql
+	BUKA http://localhost/webperpus_ci3/
+	MAU BERTANYA ? WA 082157339086
+
+
+REFERENSI = CODEKOP
